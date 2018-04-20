@@ -1,5 +1,4 @@
 rvm: 2.0.0
 
 before_script:
-  - npm install -g danger
-  - brew install danger/tap/danger-swift
+  - bundle exec danger

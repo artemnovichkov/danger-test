@@ -1,1 +1,1 @@
-warn("Test warning message")
+message("Hello, this worked")
